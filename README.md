@@ -28,8 +28,8 @@ This project is a complete solution for developers to showcase their work. It in
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
-   cd <project-directory>
+   git clone https://github.com/augustdev290/augustdev290-portfolio-cms.git
+   cd augustdev290-portfolio-cms
    ```
 
 2. **Install dependencies**:
